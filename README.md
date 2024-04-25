@@ -1,3 +1,3 @@
-# [Colorized clocks]( https://tarhunchikkk.github.io/colorized-clock-animation/src/index.html)
+# [Colorized clock]( https://tarhunchikkk.github.io/colorized-clock-animation/src/index.html)
 
-![](https://github.com/TarhunchiKKK/lovely-list/blob/main/readme/result.png)
+<img src="https://github.com/TarhunchiKKK/colorized-clock-animation/blob/master/readme/result.png" alt="Result"></img>
